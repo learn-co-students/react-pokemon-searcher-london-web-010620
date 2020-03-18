@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const Search = props => {
   return (
@@ -8,7 +8,7 @@ const Search = props => {
         <i className="search icon" />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Search
+export default Search;
